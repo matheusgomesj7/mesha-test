@@ -1,0 +1,18 @@
+const MUSIC_GENRES = {
+    ROCK_GENRE: "Rock Genre",
+    POP_GENRE: "Pop Genre",
+    CLASSIC_GENRE: "Classic Genre",
+    LOFI_GENRE: "Lofi Genre"
+}
+
+const PLAYLISTS_URL_KEYS = {
+    ROCK_URL_KEY: 10314010,
+    POP_URL_KEY: 447549756,
+    CLASSIC_URL_KEY: 78484595,
+    LOFI_URL_KEY: 428558289
+}
+
+export {
+    MUSIC_GENRES,
+    PLAYLISTS_URL_KEYS
+}
